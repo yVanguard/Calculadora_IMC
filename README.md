@@ -9,6 +9,7 @@ Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mob
 
 ## Desenvolvido por
 Leonardo Bruno Rodrigues Ra: 0040481821017
+
 Lucas Fernando Coutinho Manhães Ra:0040881821041
 
 ## Desafio para aula
